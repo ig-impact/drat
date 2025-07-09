@@ -6,3 +6,11 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: impact.telemetry
+Version: 0.0.0.9000
+Imports: cli, jsonlite, lifecycle, logger
+Suggests: mockr, testthat (>= 3.0.0), withr
+License: MIT + file LICENSE
+MD5sum: bb91887796368e0a9f2f73e6647e063a
+NeedsCompilation: no
